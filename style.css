@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-color: grey;
+  text-align: center;
+
+}
+
+.form{
+border-radius: 30px;
+text-align: center;
+}
+
+p{
+    padding: 30px;
+}
+
+input{
+  display: inline-block;
+}
+
+span{
+  padding-left: 10px;
+}
